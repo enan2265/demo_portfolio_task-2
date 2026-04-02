@@ -128,7 +128,7 @@ nav>div {
     display: flex;
     justify-content: center;
     background-color: #697484;
-    padding: 200px;
+    padding: 150px;
 }
 
 .CV {
@@ -207,9 +207,9 @@ nav>div {
 }
 
 .description>h1 {
-    font-size: 30px;
+    font-size: 50px;
     font-weight: 600;
-    padding: 30px 40px 50px 30px;
+    padding:10px 40px 50px 30px;
     padding-left: 60px;
 }
 
